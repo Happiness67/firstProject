@@ -1,0 +1,88 @@
+body {
+  position: relative;
+  background-size: cover, contain !important;
+  background-color: grey;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background-image: url(./guy-suit-sits-chair-holds-book.jpg);
+  margin: 0%;
+}
+.left {
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+}
+.circle {
+  color: white;
+}
+.logo {
+  font-size: xx-large;
+  color: white;
+  padding-bottom: 57px;
+}
+.img-one {
+  width: 100vh;
+  height: 100vh;
+}
+#sign {
+  color: black;
+  background-color: white;
+}
+/* =============================================================================================== */
+/* holupy styles */
+/* =============================================================================================== */
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  color: white;
+}
+ul li {
+  padding-top: 25px;
+  text-decoration: none;
+  list-style: none;
+  font-weight: 80px;
+  color: white;
+}
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  padding-top: 25px;
+}
+button {
+  margin-left: 20px;
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  text-transform: capitalize;
+}
+.big {
+  font-weight: 100px;
+  font-size: 60px;
+  width: 420px;
+}
+.right {
+  margin: 50px;
+  padding-top: 10px;
+  color: white;
+}
+.framework {
+  padding-top: 20px;
+  font-weight: 80px;
+  font-size: large;
+  width: 300px;
+}
+.start {
+  font-weight: 100px;
+  margin-top: 40px;
+  background-color: rgb(212, 187, 143);
+}
