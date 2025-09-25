@@ -4,7 +4,7 @@ body {
   background-color: grey;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 100vh;
+  height: 100%;
   background-image: url(./guy-suit-sits-chair-holds-book.jpg);
   margin: 0%;
 }
